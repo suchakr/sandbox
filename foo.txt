@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x   6 sunder.chakravarty  1492765578  204 Nov 29 11:10 .
+drwxr-xr-x   3 sunder.chakravarty  1492765578  102 Nov 29 11:03 ..
+drwxr-xr-x  14 sunder.chakravarty  1492765578  476 Nov 29 11:08 .git
+-rw-r--r--   1 sunder.chakravarty  1492765578  181 Nov 29 11:03 .gitignore
+-rw-r--r--   1 sunder.chakravarty  1492765578   34 Nov 29 11:06 README.md
+-rw-r--r--   1 sunder.chakravarty  1492765578    0 Nov 29 11:10 foo.txt
